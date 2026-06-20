@@ -103,8 +103,9 @@ g++ -o golden_wings world-guessing-game.cpp
 ```
 world-guessing-game/
 │
-├── Golden_Wings_Team.cpp    # Main source file
-└── README.md                # Project documentation
+├── world-guessing-game.cpp    # Main source file
+├── LICENSE                    # MIT License
+└── README.md                  # Project documentation
 ```
 
 ---

@@ -77,7 +77,7 @@ git clone https://github.com/temsah-dev/world-guessing-game.git
 cd world-guessing-game
 
 # 3. Compile
-g++ -o golden_wings Golden_Wings_Team.cpp
+g++ -o golden_wings world-guessing-game.cpp
 
 # 4. Run
 ./golden_wings

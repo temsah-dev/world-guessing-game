@@ -71,10 +71,10 @@ g++ --version
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/YOUR_USERNAME/golden-wings-game.git
+git clone https://github.com/temsah-dev/world-guessing-game.git
 
 # 2. Navigate to the project folder
-cd golden-wings-game
+cd world-guessing-game
 
 # 3. Compile
 g++ -o golden_wings Golden_Wings_Team.cpp
@@ -101,7 +101,7 @@ g++ -o golden_wings Golden_Wings_Team.cpp
 ## 🗂️ Project Structure
 
 ```
-golden-wings-game/
+world-guessing-game/
 │
 ├── Golden_Wings_Team.cpp    # Main source file
 └── README.md                # Project documentation
@@ -139,8 +139,8 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## 👤 Author
 
-**Your Name**
-- GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+**Abdou Temsah**
+- GitHub: [@temsah-dev](https://github.com/temsah-dev)
 
 ---
 
